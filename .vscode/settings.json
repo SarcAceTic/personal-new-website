@@ -1,0 +1,13 @@
+{
+    "tailwindCSS.includeLanguages": {
+      "vue": "html"
+    },
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "css.validate": false,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "vue.codeLens.enabled": true,
+    "vue.codeActions.enabled": true,
+    "javascript.suggest.enabled": true
+  }
