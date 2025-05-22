@@ -1,6 +1,6 @@
 <template>
     <div>
-        <header class="p-4 border-b border-primary z-40 bg-neutral-800 shadow-2xl fixed top-0 left-0 right-0 sm:px-8 md:px-20 lg:px-60">
+        <header class="p-4 border-b border-primary z-40 bg-neutral-800 shadow-2xl fixed top-0 left-0 right-0 sm:px-8 md:px-20 lg:px-60 xl:px-[400px]">
             <nav class="flex flex-row justify-between">
                 <ULink class="my-auto text-xl text-neutral" to="/">
                     <b class="text-primary">S</b>a<b class="text-primary">R</b>yn

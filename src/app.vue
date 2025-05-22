@@ -2,7 +2,7 @@
   <div>
     <UApp>
       <NuxtLayout>
-        <NuxtPage class="pt-20 mx-4" />
+        <NuxtPage class="pt-20" />
       </NuxtLayout>
     </UApp>
   </div>
